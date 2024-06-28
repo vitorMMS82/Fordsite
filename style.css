@@ -1,0 +1,177 @@
+.section-flex {
+
+  display: flex;
+  
+  height: 860px;
+  background-image: url(/login-ranger-panel.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1rem 1rem;
+
+
+}
+
+.h1 {
+  color: #E8E8E3;
+  padding-left: 12%;
+  margin-top: 5%;
+  font-size: 50px;
+
+}
+
+.p1{
+  color: white;
+  padding-left: 12%;
+  margin-top: 5%;
+  margin-right: 30%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 23px;
+}
+ 
+ 
+
+ 
+.div10 {
+  background-color: #E8E8E3;
+  height: 80%;
+  width: 1200px;
+  border-radius: 5rem;
+}
+ 
+.div20{
+  padding-right: 10%;
+  margin-top: 10%;
+}
+
+.create {
+  text-decoration: none;
+  color: black;
+  padding-left: 36% ;
+  cursor: pointer;
+}
+
+.create:hover{
+
+    border: none;
+    color: rgb(0, 17, 255);
+    font-size: 16px;
+    animation: chargeColor 2s infinite;
+    cursor: pointer;
+}
+
+ 
+.img10 {
+  width: 90px;
+  padding-left: 40%;
+}
+ 
+.sec10 {
+  display:grid;
+  height: 70%;
+  padding-left: 20%;
+}
+ 
+.img20 {
+  padding-top: 10%;
+  padding-left: 17%;
+  margin-top: 10%;
+}
+ 
+.in1 {
+  padding-left: 5%;
+  margin-top: 20%;
+  background-color: #272961;
+  height: 38px;
+  width: 200px;
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+}
+ 
+.in2 {
+  padding-left: 5%;
+  margin-top: 5%;
+  background-color: #272961;
+  height: 38px;
+  width: 200px;
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+}
+ 
+.bot {
+  padding-left: 1%;
+  margin-top: 10%;
+  height: 38px;
+  width: 200px;
+  background-color: #272961;
+  color: ghostwhite;
+  border-radius: 10px 10px 10px 10px;
+}
+ 
+.entrar {
+  text-decoration: none;
+  padding-top: 10%;
+  color: black;
+  padding-left: 10%;
+  cursor: pointer;
+}
+
+.entrar:hover{
+  border: none;
+  color: rgb(0, 17, 255);
+  font-size: 16px;
+  animation: chargeColor 2s infinite;
+
+}
+ 
+.pe {
+  background-color: #272961;
+  height: 60px;
+}
+
+.social{
+  padding-left: 1.5%;
+}
+
+.imgsocial{
+  padding-left: 1%;
+  margin-top: 1%;
+}
+
+.face{
+  padding-left: 3%;
+  height: 30px;
+  margin-top: 1.5%;
+  cursor: pointer;
+
+}
+
+.youtube{
+
+  padding-left: 2%;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+
+
+}
+
+.insta{
+  padding-left: 2%;
+  height: 30px;
+  cursor: pointer;
+
+}
+
+.link{
+padding-left: 2%;
+height: 30px;
+cursor: pointer;
+}
+
+.ford{
+  height: 180px;
+  padding-left: 4%;
+  cursor: pointer;
+  
+}
+
